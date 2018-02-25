@@ -1,0 +1,17 @@
+D /a
+D /a/b
+D /a/b/c
+D /a/b/c/d
+F /a/b/c/d/e
+D /a/assd
+F /a/hello
+D /a/e
+D /k
+D /h
+D /h/a
+D /h/a/m
+F /h/a/m/b
+D /h/a/t
+D /h/e
+D /h/e/j
+F /b
